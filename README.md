@@ -1,5 +1,6 @@
 # Change-Management
 IOT AND THE HUMAN ELEMENT MANAGING PEOPLE THROUGH TECHNOLOGICAL SHIFTS
+
     * Analyzed the impact of IoT on workforce adaptation, focusing on human-centric strategies for managing technological shifts in the workplace.
     * Explored challenges such as skill gaps, workforce resistance, and increased dependency on technology in IoT integration.
     * Proposed strategies for leadership-driven change, collaborative culture building, and sustainable employee training programs.
